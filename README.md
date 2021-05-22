@@ -1,5 +1,5 @@
-### **myPortfolio**
-## KarthikaVS
+# **myPortfolio**
+# KarthikaVS
 ## Projects
 ## Data Analysis
 ## 1. Dynamic Visualization and Tracking of Covid-19 Spread 

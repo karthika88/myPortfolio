@@ -18,13 +18,18 @@
  *  Web scrapping and database creation with BeautifulSoup and Pandas
  *  Text data processing and feature selection using NLTK library and providing
     buying recommendation
-### 5. Prediction using Decision Tree Algorithm 
+### 5. Global Superstore Dashboard with Power BI
+ * Designed and analyze global superstore data to show overall sales
+   performance
+ * Recognized the KPIs and provide actionable insights on sales by category,
+subcategory region and segments
+### 6. Prediction using Decision Tree Algorithm 
  *  Created the Decision Tree classifier and visualize it graphically.
  *  The purpose is if we feed any new data to this classifier, it would be able to
     predict the right class accordingly.
-### 6. Prediction using Unsupervised ML 
+### 7. Prediction using Unsupervised ML 
  *  From ‘Iris’ dataset, predict the optimum number of clusters
     and represent it visually.
-### 7. Crime Against Women in India
+### 8. Crime Against Women in India
  *  Time series plot of different zones to find the trend in crime against women
  *  Visualization and analysis for statewise trend

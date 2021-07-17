@@ -2,23 +2,29 @@
 # KarthikaVS
 ### Data Science | Machine Learning | Deep Learning
 ## Projects
-### 1. Dynamic Visualization and Tracking of Covid-19 Spread 
- *  Obtained Covid-19 data using python API
- *  Extracted data from JSON object using pandas
- *  Created interative visualizations with Plotly library
+### 1. Realtime Traffic Sign Detection and Recongnition system
+ *  Implemented YOLOv3 model for traffic sign board detection
+ *  Extracted of Region Of Interest
+ *  Developed a CNN architecture for classification of traffic signs
 ### 2. Hybrid Model for Stock Price Prediction using Time Series with Sentimental Analysis
  *  Conducted a time series forcast with ARIMA and FB Prophet
  *  Performed sentimental analysis on news data with NLTK Vader
  *  Combined time series-sentimental analysis with Multivariate Prophet model
-### 3. Mobile Phone Recommendation System
+### 3. Dynamic Visualization and Tracking of Covid-19 Spread 
+ *  Obtained Covid-19 data using python API
+ *  Extracted data from JSON object using pandas
+ *  Created interative visualizations with Plotly library
+### 4. Mobile Phone Recommendation System
  *  Web scrapping and database creation with BeautifulSoup and Pandas
  *  Text data processing and feature selection using NLTK library and providing
     buying recommendation
-### 4. Prediction using Decision Tree Algorithm 
+### 5. Prediction using Decision Tree Algorithm 
  *  Created the Decision Tree classifier and visualize it graphically.
  *  The purpose is if we feed any new data to this classifier, it would be able to
     predict the right class accordingly.
-### 5. Prediction using Unsupervised ML 
+### 6. Prediction using Unsupervised ML 
  *  From ‘Iris’ dataset, predict the optimum number of clusters
     and represent it visually.
-
+### 7. Crime Against Women in India
+ *  Time series plot of different zones to find the trend in crime against women
+ *  Visualization and analysis for statewise trend

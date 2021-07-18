@@ -6,7 +6,7 @@
  *  Implemented YOLOv3 model for traffic sign board detection
  *  Extracted of Region Of Interest
  *  Developed a CNN architecture for classification of traffic signs
-### 2. [Hybrid Model for Stock Price Prediction using Time Series with Sentimental Analysis]
+### 2. [Hybrid Model for Stock Price Prediction using Time Series with Sentimental Analysis](https://github.com/karthika88/Hybrid-Model-for-Stock-Price-Prediction-using-Time-Series-with-Sentimental-Analysis)
  *  Conducted a time series forcast with ARIMA and FB Prophet
  *  Performed sentimental analysis on news data with NLTK Vader
  *  Combined time series-sentimental analysis with Multivariate Prophet model

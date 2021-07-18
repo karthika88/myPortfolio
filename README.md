@@ -14,7 +14,7 @@
  *  Obtained Covid-19 data using python API
  *  Extracted data from JSON object using pandas
  *  Created interative visualizations with Plotly library
-### [4.Mobile Phone Recommendation System](https://github.com/karthika88/Mobile-Phone-Recommendation-System)
+### [4. Mobile Phone Recommendation System](https://github.com/karthika88/Mobile-Phone-Recommendation-System)
  *  Web scrapping and database creation with BeautifulSoup and Pandas
  *  Text data processing and feature selection using NLTK library and providing
     buying recommendation

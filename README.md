@@ -2,7 +2,7 @@
 # KarthikaVS
 ### Data Science | Machine Learning | Deep Learning
 ## Projects
-### 1. [Real-Time Traffic Sign Detection and Recongnition system](https://github.com/karthika88/Realtime-Traffic-Sign-Detection-and-Recongnition-system)
+###1. [Real-Time Traffic Sign Detection and Recongnition system](https://github.com/karthika88/Realtime-Traffic-Sign-Detection-and-Recongnition-system)
  *  Implemented YOLOv3 model for traffic sign board detection
  *  Extracted of Region Of Interest
  *  Developed a CNN architecture for classification of traffic signs
